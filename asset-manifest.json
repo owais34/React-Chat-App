@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Chat-App/static/css/main.5d41ca5f.chunk.css",
+    "main.js": "/React-Chat-App/static/js/main.cfc58a24.chunk.js",
+    "main.js.map": "/React-Chat-App/static/js/main.cfc58a24.chunk.js.map",
+    "runtime~main.js": "/React-Chat-App/static/js/runtime~main.769bd779.js",
+    "runtime~main.js.map": "/React-Chat-App/static/js/runtime~main.769bd779.js.map",
+    "static/js/2.aa90e727.chunk.js": "/React-Chat-App/static/js/2.aa90e727.chunk.js",
+    "static/js/2.aa90e727.chunk.js.map": "/React-Chat-App/static/js/2.aa90e727.chunk.js.map",
+    "index.html": "/React-Chat-App/index.html",
+    "precache-manifest.4a4eb15bfbbaa7b64a2b530d319ef70b.js": "/React-Chat-App/precache-manifest.4a4eb15bfbbaa7b64a2b530d319ef70b.js",
+    "service-worker.js": "/React-Chat-App/service-worker.js",
+    "static/css/main.5d41ca5f.chunk.css.map": "/React-Chat-App/static/css/main.5d41ca5f.chunk.css.map"
+  }
+}
